@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/icepeak2018/test#readme",
   "dependencies": {
+    "lodash": "^4.17.11",
     "react": "^16.5.2"
   }
 }
