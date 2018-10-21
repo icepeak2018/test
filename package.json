@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/icepeak2018/test/issues"
   },
-  "homepage": "https://github.com/icepeak2018/test#readme"
+  "homepage": "https://github.com/icepeak2018/test#readme",
+  "dependencies": {
+    "react": "^16.5.2"
+  }
 }
